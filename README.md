@@ -13,3 +13,11 @@ Publish the files at the root of a public `aaltahms.github.io` repository and en
 ## Motion design
 
 Motion follows the pointer only on fine-pointer devices, stops when the tab is hidden, and settles instead of running a continuous idle loop. The Motion toggle disables effects. The operating-system reduced-motion preference takes priority. Glass styling uses CSS backdrop blur and layered borders/shadows, with opaque fallbacks. This is a custom web interpretation, not Apple Liquid Glass framework integration.
+
+## Project addresses
+
+- ReverseLab guided example: https://aaltahms.github.io/reverse-lab/
+- ReverseLab setup and report viewer: https://aaltahms.github.io/reverse-lab/compare.html
+- ResolveAI hosted incident desk: https://resolveai-lab-aymen.aymenraed05.chatgpt.site/ (authorized sign-in required; separate from local Mac checks)
+
+These are the primary hosted project links. Native diagnostics and execution still use local runners; localhost URLs are development or local-tool addresses, not public hosting.
