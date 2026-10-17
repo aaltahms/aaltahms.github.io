@@ -21,3 +21,5 @@ Motion follows the pointer only on fine-pointer devices, stops when the tab is h
 - ResolveAI hosted incident desk: https://resolveai-lab-aymen.aymenraed05.chatgpt.site/ (authorized sign-in required; separate from local Mac checks)
 
 These are the primary hosted project links. Native diagnostics and execution still use local runners; localhost URLs are development or local-tool addresses, not public hosting.
+
+SignalForge: [recording workspace](https://aaltahms.github.io/signal-forge/) · [source and Python collector](https://github.com/aaltahms/signal-forge). The academic foundation section uses selected course titles and completion status reviewed with the owner on October 17, 2026; grades and account details are excluded.
